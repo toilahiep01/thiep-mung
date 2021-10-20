@@ -1,4 +1,4 @@
-const nameGirl = 'Em';
+const nameGirl = 'Mọi người trong CLB Taekwondo Móng Cái';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng mọi người';
